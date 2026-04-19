@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3862bfdc-1381-4e7d-9ec1-290ddcc1c2b3",
+  "export_job_id": "9aeda354-e0b3-4a77-9dc9-2c6dc7b7a9e4",
   "id_short": 471551,
-  "published_at": "2026-04-13T19:03:17Z",
+  "published_at": "2026-04-19T07:29:04Z",
   "repo_name": "restaurant-sentiment-crashers-prime-in-florida-us-sample-471551",
   "sample_asset_name": "beamstation_471551_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/471551/beamstation_471551_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "c09752b6af0b36bc8d80073e03dc11e6da805d0461dc6d1497bc80e2a178bd81",
-  "sample_size_bytes": 204722,
-  "total_records": 463
+  "sample_records": 136,
+  "sample_sha256": "b71b97f0276e277be51b5356b81f8b58455ad4ec7a34d1b4d571826f51fe858d",
+  "sample_size_bytes": 565868,
+  "total_records": 1368
 }
