@@ -1,6 +1,6 @@
 # Restaurant Sentiment Crashers Prime in Florida, US
 
-> Free BeamStation sample export with 136 rows and masked direct-contact fields.
+> Free BeamStation sample export with 77 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `471551` |
 | Location | Florida |
 | Category | Restaurants |
-| Full dataset size | 1,368 records |
-| Free sample size | 136 records (9.94%) |
-| Last export | 2026-04-15T07:41:45.475036+00:00 |
+| Full dataset size | 771 records |
+| Free sample size | 77 records (9.99%) |
+| Last export | 2026-04-22T14:15:32.374649+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-sentiment-crashers-prime-in-florida-us-sample-471551/releases/download/sample-latest/beamstation_471551_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
